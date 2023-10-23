@@ -20,6 +20,7 @@
 ## Project Description
 
 Based on ESP8266, This board is capable to drive 4 relays, take analog input from 1 sensor and process the data with help of HomeAssistant. Can be used to control home appliances as well as control scheduled applications like watering plants.
+![Alt Text](finishprod.jpg)
 
 ---
 
@@ -47,7 +48,7 @@ Based on ESP8266, This board is capable to drive 4 relays, take analog input fro
 
 ## Installation
 
-- This can be easily set up via ESP-Home library and Home Assitant running on a Pi/
+- This can be easily set up via ESP-Home library and Home Assitant running on a Pi. Its best that you setup your own configration. 
 ---
 
 ## Usage
@@ -56,15 +57,14 @@ Although this has multiple uses, but the most common use for it is in automating
 
 ---
 
-## Electrical Schematic
 
-[Upload your electrical schematic here or provide a link.]
-
----
 
 ## PCB Gerber Files
 
-[Upload your PCB Gerber files here or provide a link.]
+![Alt Text](PCB Front.png)
+![Alt Text](PCB back.png)
+
+https://github.com/VidhuSarwal/CaffeenHB/blob/main/PCB.zip
 
 ---
 
