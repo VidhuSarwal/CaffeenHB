@@ -61,8 +61,8 @@ Although this has multiple uses, but the most common use for it is in automating
 
 ## PCB Gerber Files
 
-![Alt Text](PCB Front.png)
-![Alt Text](PCB back.png)
+![Alt Text](PCB Front.jpeg)
+![Alt Text](PCB back.jpeg)
 
 https://github.com/VidhuSarwal/CaffeenHB/blob/main/PCB.zip
 
