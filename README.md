@@ -4,15 +4,11 @@
 ## Table of Contents
 
 - [Project Description](#project-description)
-- [Demo](#demo)
 - [Features](#features)
 - [Hardware Requirements](#hardware-requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Electrical Schematic](#electrical-schematic)
 - [PCB Gerber Files](#pcb-gerber-files)
-- [Bill of Materials (BOM)](#bill-of-materials-bom)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
